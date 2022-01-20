@@ -11,3 +11,7 @@ trending = 'https://api.themoviedb.org/3/trending/all/day?api_key=<<api_key>>'
 image = 'https://image.tmdb.org/t/p/original'
 
 originals = 'https://api.themoviedb.org/3/discover/tv?api_key=%7BAPI_KEY_HERE%7D&with_networks=213'
+
+youtubeBaseurl = 'https://www.youtube.com/watch?v='
+
+trailerwith videoid = 'http://api.themoviedb.org/3/movie/{movie-id}/videos?api_key={api-here}###'

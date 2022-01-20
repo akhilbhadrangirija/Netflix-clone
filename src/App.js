@@ -11,7 +11,7 @@ function App() {
       <Navbar/>
       <Banner/>
       <RowPoster data= {originals} title={'Netflix Originals'}/>
-      <RowPoster data={urlScifi} title={'Sci-fi'}/>
+      <RowPoster isSmall={true} data={urlScifi} title={'Sci-fi'}/>
 
 
     </div>
