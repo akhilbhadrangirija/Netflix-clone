@@ -19,10 +19,19 @@ color: #fff;
 .poster{
     max-height: 150px;
     margin-right: 10px;
+    cursor: pointer;
+    
+}
+.poster:hover{
+    transform: scale(1.1);
+}
+.smallposter:hover{
+    transform: scale(1.1);
 }
 .smallposter{
     max-height: 100px;
     margin-right: 10px;
+    cursor: pointer;
 
 }
 .trailer{
